@@ -52,6 +52,7 @@ gem "sassc-rails"
 
 gem "devise"
 gem "ostruct"
+gem 'activeadmin'
 
 group :development, :test do
   gem "dotenv-rails"
